@@ -1,0 +1,3 @@
+celsius=float(input("enter the temperature in celsius:"))
+farenheit=((celsius*9)/5)-32
+print("The temperature in farenheit is"%farenheit)
